@@ -1,4 +1,4 @@
-<img width="7908" height="3968" alt="image" src="https://github.com/user-attachments/assets/86c8ae4c-8288-46a5-8d63-77a57199dfdd" /># Document Tracker
+# Document Tracker
 
 Sistem pelacakan dokumen yang dikembangkan berdasarkan 3,5 tahun pengalaman praktis dalam mengelola dan memantau dokumen perusahaan.
 
