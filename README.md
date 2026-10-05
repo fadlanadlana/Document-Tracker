@@ -1,4 +1,4 @@
-# Document Tracker
+<img width="7908" height="3968" alt="image" src="https://github.com/user-attachments/assets/86c8ae4c-8288-46a5-8d63-77a57199dfdd" /># Document Tracker
 
 Sistem pelacakan dokumen yang dikembangkan berdasarkan 3,5 tahun pengalaman praktis dalam mengelola dan memantau dokumen perusahaan.
 
@@ -60,3 +60,58 @@ Tim yang bertanggung jawab atas tata kelola perusahaan.
 ### 1.8 Manfaat yang Diharapkan
 
 Pemangku kepentingan dapat mengambil keputusan berdasarkan tracker SOP yang telah dirancang.
+
+## 2. Stakeholder Analysis
+### 2.1 Stakeholder Mapping
+<img width="1423" height="799" alt="image" src="https://github.com/user-attachments/assets/ff7aa8a1-8db6-40a7-93b7-a1cb351e0e5a" />
+
+### 2.2 Stakeholder Engagement
+
+| Stakeholder Role | Quadrant | Engagement Strategy |
+|---|---|---|
+| Process Excellence Lead | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Operational Risk Manager | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Finance Operations Manager | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| HR Operations Manager | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| IT Operations Manager | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Procurement Manager | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Financial Control Lead | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Treasury Lead | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| People Development Lead | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Enterprise Risk Lead | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Business Continuity Lead | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Corporate Planning Manager | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Service Delivery Lead | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Vendor Management Lead | Manage Closely | Workshop, design review, UAT, weekly coordination |
+| Director of Operations | Keep Satisfied | Executive update, consultation on key decisions, milestone review |
+| Chief Risk Officer | Keep Satisfied | Executive update, consultation on key decisions, milestone review |
+| Division Head | Keep Satisfied | Executive update, consultation on key decisions, milestone review |
+| Governance Admin | Keep Informed | User update, training, UAT communication, operational notice |
+| PMO Analyst | Keep Informed | User update, training, UAT communication, operational notice |
+| Application Support Lead | Keep Informed | User update, training, UAT communication, operational notice |
+| HR Policy Lead | Keep Informed | User update, training, UAT communication, operational notice |
+| System Migration Team/Lead | Keep Informed | User update, training, UAT communication, operational notice |
+| General Employee/User | Monitor | General announcement or low-frequency update |
+| Administrative Support dari unit non-pilot | Monitor | General announcement or low-frequency update |
+| Observer dari unit di luar scope | Monitor | General announcement or low-frequency update |
+
+### 2.3 RACI Matrix
+
+(TO BE FILLED)
+
+## 3. As-Is Analysis
+### 3.1 As-Is diagram 
+<img width="9248" height="4328" alt="image" src="https://github.com/user-attachments/assets/1d8c3852-a205-40ba-bea2-4ae7a37c535a" />
+
+SOP renewal dijalankan 5 peran secara berurutan:
+
+1. Governance Admin/PMO Analyst — mengumpulkan daftar dokumen dari legacy Excel, cek expiry date manual, identifikasi dokumen yang perlu diperbarui, lalu tetapkan action item ke owner.
+2. Document Owner/PIC — menerima assignment, menyusun draft revisi (atau lapor no change), perbaiki draft sesuai komentar, update tracker & simpan evidence manual.
+3.Stakeholder Reviewer — review draft, kirim komentar/revisi/rejection bila belum ditindaklanjuti.
+4.Approver/Process Owner — menerima permintaan approval, setujui atau kembalikan untuk diperbaiki.
+5. Governance Admin/Document Control — publikasikan dokumen versi terbaru, lampirkan approval & completion evidence, update tracker manual, selesai.
+
+### 3.2 To be Process
+
+<img width="7908" height="3968" alt="image" src="https://github.com/user-attachments/assets/7e7fb127-b3c7-44fb-8b5e-97612583cca7" />
+
